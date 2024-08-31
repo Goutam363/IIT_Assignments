@@ -1,0 +1,6 @@
+John Doe, 1234 5678 9012 3456, john.doe@example.com, 1500
+Jane Smith, 9876 5432 1098 7654, jane.smith@mydomain.org, 2350
+Alice Johnson, 1122 3344 5566 7788, alice.johnson@university.edu, 1780
+Bob Brown, 4455 6677 8899 0011, bob.brown@company.co.in, 500
+Charlie White, 2233 4455 6677 8899, charlie.white@service.io, 930
+Goutam Halder, 6423 5337 4567 2478, goutam.halder@stylekunj.ac.in
